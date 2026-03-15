@@ -25,7 +25,7 @@ I’m a tech enthusiast constantly seeking to improve my clean code skills and s
 
 ## 🧠 What I do
 
-- 🏗️ Studying Information Systems & Software Engineering
+- 🏗️ Studying Information Systems
 - ☕ Developing Back-end skills with Java
 - 🧩 Learning Data Structures & Algorithms
 - 🔐 Studying API development and Secure Systems
